@@ -14,7 +14,7 @@ android {
         versionCode = com.dashingqi.buildsrc.Versions.versionCode
         versionName = com.dashingqi.buildsrc.Versions.versionName
 
-        testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
+        testInstrumentationRunner = com.dashingqi.buildsrc.Libs.TEST_RUNNER
     }
 
     buildTypes {

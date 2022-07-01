@@ -7,5 +7,5 @@ package com.dashingqi.buildsrc
  */
 
 object Libs {
-
+    const val TEST_RUNNER = "androidx.test.runner.AndroidJUnitRunner"
 }
